@@ -3,7 +3,7 @@ ComputerNetworkProject
 
 作業環境:
 ---
-+ C++ <br/>
++ C++11 <br/>
 + Ubuntu 14.04.4 64bits <br/>
 
 內容:
