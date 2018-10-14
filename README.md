@@ -22,4 +22,7 @@ ComputerNetworkProject
 > slow start & congestion avoidance
 
 + 5 <br/>
-> slow start & fast retransmit & congestion avoidance
+> slow start & fast retransmit & congestion avoidance (Tahoe)
+
++ 6 <br/>
+> slow start & fast retransmit & congestion avoidance & fast recovery (Reno)
